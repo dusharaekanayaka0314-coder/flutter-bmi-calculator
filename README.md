@@ -98,8 +98,8 @@ flutter-bmi-calculator/
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile/)
+- GitHub:https://github.com/dusharaekanayaka0314-coder/flutter-bmi-calculator.git
+- LinkedIn:www.linkedin.com/in/dushara-ekanayaka-42a6a927a
 
 ---
 
